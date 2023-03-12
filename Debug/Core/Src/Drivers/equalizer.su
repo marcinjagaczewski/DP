@@ -1,0 +1,2 @@
+../Core/Src/Drivers/equalizer.c:7:15:eqInit	16	static
+../Core/Src/Drivers/equalizer.c:25:15:eqGainSet	24	static

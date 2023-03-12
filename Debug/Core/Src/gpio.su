@@ -1,0 +1,6 @@
+../Core/Src/gpio.c:40:6:MX_GPIO_Init	48	static
+../Core/Src/gpio.c:89:6:gpioToSwitchDP	16	static
+../Core/Src/gpio.c:100:6:buttonsInit	8	static
+../Core/Src/gpio.c:107:6:buttonsGetState	16	static
+../Core/Src/gpio.c:125:6:buttonsResetState	8	static
+../Core/Src/gpio.c:133:6:HAL_GPIO_EXTI_Falling_Callback	16	static
